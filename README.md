@@ -2,7 +2,7 @@
 
 ### Big Five Personality Clustering Using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Clustering-orange)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Models-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
